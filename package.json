@@ -18,5 +18,8 @@
     "nodemon": "latest",
     "ts-node": "latest",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "pixi.js": "^5.2.2"
   }
 }
